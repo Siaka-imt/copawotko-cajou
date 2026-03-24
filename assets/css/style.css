@@ -30,8 +30,42 @@
 # Features
 # Funfact
 # Tour Search
---------------------------------------------------------------*/
+/* HERO */
 
+/* Section */
+.products-section {
+  padding: 60px 0;
+}
+
+/* Carte produit */
+.product-card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+/* Image */
+.product-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Texte */
+.product-card p {
+  font-size: 14px;
+  color: #555;
+}
+
+/* Hover effet */
+.product-card:hover {
+  transform: translateY(-5px);
+}
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
