@@ -32,17 +32,17 @@
 # Tour Search
 
 /* HERO */
-
-/* TITRES */
-.info-box h5 {
-  font-weight: 600;
-  margin-bottom: 10px;
-}
 @media (max-width: 768px) {
   .info-box {
     margin-bottom: 30px;
   }
 }
+/* TITRES */
+.info-box h5 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
 /* TEXTE */
 .info-box p {
   margin: 0;
